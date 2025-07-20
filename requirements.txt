@@ -1,0 +1,7 @@
+﻿streamlit
+pillow
+numpy
+opencv-python-headless
+rembg
+realesrgan
+basicsr
