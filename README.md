@@ -44,21 +44,7 @@ PixelPerfect is a comprehensive, web-based image processing application designed
 
 ---
 
-## 📸 Demo & Screenshots
 
-You can see a live demo (if deployed to Streamlit Cloud or similar) or static screenshots here:
-
-* **Screenshots:**
-  
-https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20150654.png
-https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170026.png
-https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170142.png
-https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170255.png
-https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170350.png
-https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170523.png
-https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20172330.png
-https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20175921.png
---
 
 ## ⚙️ Installation & Setup
 
@@ -146,16 +132,6 @@ Follow these steps to get PixelPerfect running on your local machine.
 
 ---
 
-## 👥 Team & Work Distribution
-
-This project was a collaborative effort by the following team members:
-
-* **Abhishek Kumar:** Project Lead, Core AI/ML Backend Developer, System Integrator, Digital Forensics Specialist.
-* **Anisha Singh:** Frontend Development Lead, UI/UX Designer, Image Adjustments & Filters Developer.
-* **Preeti:** Image Optimization & Manipulation Features Developer, Requirements Analyst, User Manual Contributor.
-* **Shweta Gritlahre:** Advanced Image Processing & Forensic Tools Developer, Quality Assurance (QA) Lead, Algorithm Research & Validation.
-
----
 
 ## 💡 Future Enhancements
 
@@ -172,6 +148,6 @@ We envision several exciting future enhancements for PixelPerfect:
 
 ## 📧 Contact
 
-For any questions, feedback, or collaborations, please feel free to reach out to Abhishek Kumar at abk210820@gmail.com
+For any questions, feedback, or collaborations, please feel free to reach out to Shweta Ghritlahre  at shwetaghritlahre05@gmail.com
 
 ---
