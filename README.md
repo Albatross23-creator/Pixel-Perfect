@@ -132,6 +132,8 @@ Follow these steps to get PixelPerfect running on your local machine.
 
 ---
 
+🤝 A big thanks to my teammates Anisha Singh, Preeti Nishad, and  Abhishek Kumar for their collaboration, problem-solving, and shared vision in making this project a reality.
+
 
 ## 💡 Future Enhancements
 
