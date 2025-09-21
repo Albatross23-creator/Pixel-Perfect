@@ -153,3 +153,7 @@ We envision several exciting future enhancements for PixelPerfect:
 For any questions, feedback, or collaborations, please feel free to reach out to Shweta Ghritlahre  at shwetaghritlahre05@gmail.com
 
 ---
+
+📸 Demo
+
+👉 Full project details + demo also available on my LinkedIn : https://www.linkedin.com/in/shweta-ghritlahre-342558305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
